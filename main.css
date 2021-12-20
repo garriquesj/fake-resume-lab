@@ -13,8 +13,6 @@ ul {
     display : flex ; 
     justify-content: space-evenly;
 }
-p {text-align: center;}   
-
 a {text-decoration: none;
 color:white; 
 justify-content: space-evenly; }   
@@ -29,6 +27,9 @@ border :black 1px solid; text-align: center;
 .history 
 {
 color: black; 
-background-color:white; display: block; list-style: square;
+background-color:white; 
+display: block; list-style: square;
 }
-span {color: rgb(199, 12, 12);}
+span {
+    color: rgb(199, 12, 12);
+}
